@@ -1,0 +1,6 @@
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+
+var wordBlanks = "xyz is " + myNoun + " ddd is " + myAdjective + " cc is " + myVerb + " rr " + myAdverb + " ee " + ".";

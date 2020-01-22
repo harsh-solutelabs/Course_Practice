@@ -1,0 +1,7 @@
+let catName="Oliver";
+let quote="Oliver says Meow!";
+function catTalk() {
+  
+
+}
+catTalk();
